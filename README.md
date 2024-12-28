@@ -1,6 +1,4 @@
-# Detection_of_pcod_usingML
-Repo for detection of pcod
-PCOD Prediction Model
+# Detection_of_pcod_using
 The PCOD Prediction Model is a machine learning application that predicts the likelihood of a person having Polycystic Ovary Syndrome (PCOD) based on several health parameters and lifestyle factors. PCOD is a common hormonal disorder that affects women of reproductive age. This model uses various features such as age, weight, BMI, cycle length, and symptoms like hair loss, pimples, and others to provide a prediction.
 
 How It Works
